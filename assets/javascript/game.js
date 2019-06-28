@@ -168,6 +168,8 @@ var trivia = {
 
             trivia.timerId = setInterval(trivia.timerRunning, 1000);
 
+        } else {
+
         }
 
 
